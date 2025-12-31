@@ -1,0 +1,131 @@
+(AI-Driven Customer Retention & Sales Growth Analytics)
+
+Problem Statement
+The company is experiencing declining repeat usage and increasing user inactivity. A significant portion of users stop transacting within 60 days of signup, directly impacting revenue. The goal is to identify churn-prone users early and design data-driven retention strategies to improve customer retention and increase annual sales by 40%.
+
+1. Business Problem Statement
+
+The platform has observed a steady decline in repeat user activity, with a significant portion of users becoming inactive or churning over time. Users who stop transacting directly impact revenue and marketing efficiency.
+The objective of this analysis is to identify churn-prone users early, understand key churn drivers, and design data-backed retention strategies that can improve user retention and drive up to 40% annual sales growth.
+
+2. User Base Overview
+
+Total Users: 100,000
+
+Active Users (Last 90 Days): 78,254
+
+Active User Rate: 78.25%
+
+Churned Users (No Transactions in 90+ Days): 21,746
+
+Churn Rate: 21.75%
+
+Insight: Nearly 1 in 5 users has churned, representing a major revenue leakage opportunity.
+
+3. Inactivity Distribution (Behavioral Churn Funnel)
+
+Users segmented based on last transaction activity:
+
+Inactivity Period	Users
+30–59 Days	37,003
+60–89 Days	41,251
+90+ Days (Churned)	21,746
+
+Insight:
+Over 78,000 users fall into 30–89 day inactivity buckets — a high-risk segment that can still be recovered through targeted interventions before full churn.
+
+4. Revenue Metrics
+
+Revenue per Active User: 16,091.30
+
+Monthly Revenue Trend:
+Revenue remains stable between ₹120M–₹132M per month, with a visible dip in months showing lower retention.
+
+Insight:
+Improving retention even by a small margin can significantly amplify revenue due to high revenue per active user.
+
+5. Failed Transactions as a Churn Driver
+
+User segmentation based on failed transaction frequency:
+
+Low Failed Transactions: 19,201 users
+
+High Failed Transactions: 2,545 users
+
+Insight:
+Users experiencing repeated transaction failures are disproportionately represented in the churned population, indicating payment reliability as a critical churn driver.
+
+6. Impact of Unresolved Support Tickets
+
+Support ticket analysis:
+
+Unresolved Tickets	Users
+Yes	57,301
+No	13,840
+
+Churn within these groups:
+
+Unresolved Tickets	Churned Users
+Yes	12,419
+No	3,043
+
+Insight:
+Users with unresolved tickets are 4x more likely to churn, highlighting operational inefficiencies as a major retention risk.
+
+7. Campaign Engagement Analysis
+
+Campaign-wise engagement rate:
+
+Campaign Type	Engaged Users	Engagement %
+Cashback	24,970	59.90%
+Discount	24,872	60.20%
+Personalized Offer	25,029	59.88%
+Referral	25,129	59.78%
+
+Insight:
+Campaign engagement is consistent across types, suggesting personalization and timing, rather than offer type alone, may be key to improving conversion.
+
+8. Monthly Retention (Cohort Analysis)
+
+Average monthly retention rate ranges between 63%–67%, with a noticeable decline to 61.86% in recent months.
+
+Insight:
+Even a 5–7% improvement in monthly retention can create a compounding effect on revenue due to repeat purchases.
+
+9. Business Assumption for Sales Growth Projection
+
+Current retention averages ~65%
+
+Targeted retention campaigns aimed at high-risk users (30–89 days inactive)
+
+Expected retention improvement: +10–12%
+
+Retained users show 2x higher purchase frequency
+
+Projected Impact:
+Improved retention is expected to drive ~40% annual sales growth through increased repeat purchases and reduced churn.
+
+10. Key KPIs for Tracking
+User KPIs
+
+Active User Rate
+
+Churn Rate
+
+Retention Rate
+
+Revenue KPIs
+
+Monthly Revenue
+
+Revenue per Active User
+
+Repeat Purchase Rate
+
+Risk KPIs
+
+Failed Transaction Rate
+
+Unresolved Ticket Rate
+
+High-Risk User Percentage
